@@ -1,0 +1,4 @@
+interface:
+  display_name: "ToNotion"
+  short_description: "将当前会话完整归档到 Notion 项目子页面，保留图表代码并优化排版"
+  default_prompt: "使用 $tonotion 将当前 Session 同步到 Notion：从当前会话识别目标项目，归档完整问答并应用简洁标题、原问题折叠及表格正文排版。"
